@@ -72,6 +72,17 @@ QuickCart/
     npm run dev
     ```
     ---
+   ## 📸 Screenshots
+   ### Home Page
+   <img src="public/screenshots/img1.png" width="800" />
+
+   ### Products Page
+<img src="public/screenshots/img2.png" width="800" />
+
+### Cart Page
+<img src="public/screenshots/img4.png" width="800" />
+
+   ---
    ## How the Cart Works (Short Technical Breakdown)
    The cart uses a global CartContext that stores:
    - Items in the cart
