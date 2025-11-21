@@ -74,13 +74,13 @@ QuickCart/
     ---
    ## 📸 Screenshots
    ### Home Page
-  ![Home Page](./screenshots/img1.png)
+ ![Home Page](https://raw.githubusercontent.com/anshikasahu11/QuickCart/main/img1.png)
   
    ### Products Page
-  ![Products Page](./screenshots/img2.png)
+ ![Products Page](https://raw.githubusercontent.com/anshikasahu11/QuickCart/main/img2.png)
 
    ### Cart Page
-  ![Cart Page](./screenshots/img4.png)
+ ![Cart Page](https://raw.githubusercontent.com/anshikasahu11/QuickCart/main/img4.png)
   
    ---
    ## How the Cart Works (Short Technical Breakdown)
