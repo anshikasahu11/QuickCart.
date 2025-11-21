@@ -74,14 +74,14 @@ QuickCart/
     ---
    ## 📸 Screenshots
    ### Home Page
-   <img src="public/screenshots/img1.png" width="800" />
-
+  ![Home Page](./screenshots/img1.png)
+  
    ### Products Page
-<img src="public/screenshots/img2.png" width="800" />
+  ![Products Page](./screenshots/img2.png)
 
-### Cart Page
-<img src="public/screenshots/img4.png" width="800" />
-
+   ### Cart Page
+  ![Cart Page](./screenshots/img4.png)
+  
    ---
    ## How the Cart Works (Short Technical Breakdown)
    The cart uses a global CartContext that stores:
